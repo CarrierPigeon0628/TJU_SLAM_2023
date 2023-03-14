@@ -1,0 +1,3 @@
+/home/ubuntu/Desktop/assignment1/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/Desktop/assignment1/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/Desktop/assignment1/build/CMakeFiles/assignment1.dir
